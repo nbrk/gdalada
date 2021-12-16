@@ -1,6 +1,6 @@
-# Ada bindings to GDAL (Geospatial Data Abstraction Library)
+# Ada bindings to GDAL
 
-`Gdalada` is low-level, auto-generated Ada bindings for the following subset of GDAL:
+`Gdalada` is a thin, low-level, auto-generated Ada bindings for the following subset of GDAL (Geospatial Data Abstraction Library):
 - cpl_*.h: **Common Portability Library C API**
 - gdal.h: **Raster C API**
 - ogr_core.h, ogr_api.h: **Vector C API**
