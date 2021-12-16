@@ -5,3 +5,6 @@ version = "0.0.1"
 authors = ["Nikolay Burkov"]
 maintainers = ["Nikolay Burkov <nbrk@linklevel.net>"]
 maintainers-logins = ["nbrk"]
+licenses = "BSD-2-Clause"
+tags = ["geographics", "gis", "map", "binding", "gdal"]
+
